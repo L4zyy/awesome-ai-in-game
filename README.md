@@ -5,9 +5,13 @@
 **If you come across any interesting papers, projects, or researchers, please don’t hesitate to open an issue or submit a PR.**
 
 ## Table of Contents
+### Paper
 - [Animation](#animation)
+### Project
+- [LLM](#llm-1)
 
-## Animation
+## Paper
+### Animation
 > [!NOTE]
 > **Highlight Authors**
 > - Xue Bin (Jason) Peng [Homepage](https://xbpeng.github.io/) [Google Scholar](https://scholar.google.ca/citations?user=FwxfQosAAAAJ&hl=en)
@@ -24,6 +28,16 @@
 - **DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills** [Arxiv](https://arxiv.org/abs/1804.02717)
   - Peng, Xue Bin and Abbeel, Pieter and Levine, Sergey and van de Panne, Michiel
   - 27 Jul 2018
+
+### LLM
+
+## Project
+### LLM
+- **LLM Riddles**
+  - blog from the author: [大模型解谜游戏 LLM Riddles的历程
+](https://zhuanlan.zhihu.com/p/665393240)
+  - gradio demo by ModelScope: [link](https://modelscope.cn/studios/LLMRiddles/LLMRiddles/summary)
+  - opensource implementation by OpenDILab: [link](https://github.com/opendilab/LLMRiddles)
 
 ## Acknowledgement
 - [Multimodal & Large Language Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models/tree/main): The structure of our page is organized according to the layout of this page.
