@@ -6,11 +6,17 @@
 
 ## Table of Contents
 ### Paper
+- [FPS Game AI](#fps-game-ai)
 - [Animation](#animation)
+### Environment
 ### Project
 - [LLM](#llm-1)
 
 ## Paper
+### FPS Game AI
+- **Counter-Strike Deathmatch with Large-Scale Behavioural Cloning** [Arxiv](https://arxiv.org/abs/2104.04258v2), [Code](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning)
+  - Tim Pearce, Jun Zhu
+  - 9 Apr 2021
 ### Animation
 > [!NOTE]
 > **Highlight Authors**
@@ -30,6 +36,12 @@
   - 27 Jul 2018
 
 ### LLM
+
+## Environment
+### RPG
+- **PokemonRedExperiments**
+  - Github: [link](https://github.com/PWhiddy/PokemonRedExperiments)
+  - An awesome youtube video about this project by the author: [link](https://www.youtube.com/watch?v=DcYLT37ImBY&t=895s)
 
 ## Project
 ### LLM
