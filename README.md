@@ -9,14 +9,34 @@
 - [FPS Game AI](#fps-game-ai)
 - [Animation](#animation)
 ### Environment
+- [RPG](#rpg)
 ### Project
 - [LLM](#llm-1)
 
 ## Paper
+### Text-based Game AI
+- **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** [Arxiv](https://arxiv.org/abs/2309.04658)
+  - Yuzhuang Xu, Shuo Wang, Peng Li, Fuwen Luo, Xiaolong Wang, Weidong Liu, Yang Liu
+  - 9 Sep 2023
+
 ### FPS Game AI
 - **Counter-Strike Deathmatch with Large-Scale Behavioural Cloning** [Arxiv](https://arxiv.org/abs/2104.04258v2), [Code](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning)
   - Tim Pearce, Jun Zhu
   - 9 Apr 2021
+
+- **Will GPT-4 Run DOOM?** [Arxiv](https://arxiv.org/abs/2403.05468), [Project](https://adewynter.github.io/Doom), [Code](https://github.com/adewynter/Doom)
+  - Adrian de Wynter
+  - 8 Mar 2024
+
+- **Diplomacy Cicero and Diplodocus** [Code](https://github.com/facebookresearch/diplomacy_cicero?tab=readme-ov-file), [Blog](https://ai.meta.com/research/cicero/)
+  - **Human-level play in the game of Diplomacy by combining language models with strategic reasoning** [Paper](https://noambrown.github.io/papers/22-Science-Diplomacy-TR.pdf)
+    - Meta, CMU, Stanford, MIT, Columbia University, UCB, Harvard
+    - 22 Nov 2022
+    - [Zhihu Blog about this paper](https://zhuanlan.zhihu.com/p/683329373)
+  - **Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning** [Arxiv](https://arxiv.org/abs/2210.05492)
+    - Anton Bakhtin, David J Wu, Adam Lerer, Jonathan Gray, Athul Paul Jacob, Gabriele Farina, Alexander H Miller, Noam Brown
+    - 11 Oct 2022
+
 ### Animation
 > [!NOTE]
 > **Highlight Authors**
@@ -34,8 +54,6 @@
 - **DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills** [Arxiv](https://arxiv.org/abs/1804.02717)
   - Peng, Xue Bin and Abbeel, Pieter and Levine, Sergey and van de Panne, Michiel
   - 27 Jul 2018
-
-### LLM
 
 ## Environment
 ### RPG
