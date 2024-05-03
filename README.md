@@ -6,14 +6,20 @@
 
 ## Table of Contents
 ### Paper
+- [Survey](#survey)
 - [FPS Game AI](#fps-game-ai)
 - [Animation](#animation)
+- [Misc](#misc)
 ### Environment
 - [RPG](#rpg)
 ### Project
 - [LLM](#llm-1)
 
 ## Paper
+### Survey
+- **Large Language Models and Games: A Survey and Roadmap** [Arxiv](https://arxiv.org/html/2402.18659v1)
+  - Roberto Gallotta, Graham Todd, Marvin Zammit, Sam Earle, Antonios Liapis, Julian Togelius, Georgios N. Yannakakis
+  - 28 Feb 2024
 ### Text-based Game AI
 - **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** [Arxiv](https://arxiv.org/abs/2309.04658)
   - Yuzhuang Xu, Shuo Wang, Peng Li, Fuwen Luo, Xiaolong Wang, Weidong Liu, Yang Liu
@@ -54,6 +60,12 @@
 - **DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills** [Arxiv](https://arxiv.org/abs/1804.02717)
   - Peng, Xue Bin and Abbeel, Pieter and Levine, Sergey and van de Panne, Michiel
   - 27 Jul 2018
+
+### Misc
+- **Choose Your Weapon: Survival Strategies for Depressed AI Academics**
+[Arxiv](https://arxiv.org/abs/2304.06035)
+  - Julian Togelius, Georgios N. Yannakakis
+  - 8 Feb 2024
 
 ## Environment
 ### RPG
