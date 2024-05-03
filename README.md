@@ -17,6 +17,11 @@
 
 ## Paper
 ### Survey
+> [!NOTE]
+> **Highlight Authors**
+> - Julian Togelius [Homepage](http://julian.togelius.com/) [Google Scholar](https://scholar.google.com/citations?user=lr4I9BwAAAAJ&hl=en)
+
+
 - **Large Language Models and Games: A Survey and Roadmap** [Arxiv](https://arxiv.org/html/2402.18659v1)
   - Roberto Gallotta, Graham Todd, Marvin Zammit, Sam Earle, Antonios Liapis, Julian Togelius, Georgios N. Yannakakis
   - 28 Feb 2024
