@@ -10,6 +10,8 @@
 - [Game Making](#game-making)
   - [Animation](#animation)
 - [Game Environment](#game-environment)
+  - [PCG](#pcg-procedural-content-generation)
+  - [Playable Video Generation](#playable-video-generation)
 - [Game Agent: To be a better man](#game-agent)
   - [Text-based](#text-based)
   - [FPS](#fps)
@@ -49,8 +51,13 @@
   - 27 Jul 2018
 
 ### Game Environment
+#### PCG (Procedural Content Generation)
+- **Procedural Content Generation via Machine Learning (PCGML)** [Arxiv](https://arxiv.org/abs/1702.00539)
+  - Adam Summerville, Sam Snodgrass, Matthew Guzdial, Christoffer Holmgård, Amy K. Hoover, Aaron Isaksen, Andy Nealen, Julian Togelius
+  - **Date**: 7 May 2018
+  - **Summary**: Survey paper on procedural content generation via machine learning, including traditional methods, machine learning methods, use cases and open problems.
 #### Playable Video Generation
-- **Genie: Generative Interactive Environments** [Arxiv](https://arxiv.org/abs/2402.15391)
+- **Genie: Generative Interactive Environments** [Arxiv](https://arxiv.org/abs/2402.15391), [Project](https://sites.google.com/view/genie-2024/home)
   - Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge (Jimmy) Shi and more (DeepMind, UBC)
   - **Date**: 23 Feb 2024
   - **Summary**: The first generative interactive environment trained in an unsupervised manner from unlabelled Internet videos. The model can be prompted to generate an endless variety of action-controllable virtual worlds described through text, synthetic images, photographs, and even sketches.
