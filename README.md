@@ -42,6 +42,14 @@
 > - Sebastian Starke [Homepage](https://www.sebastianxstarke.com/) [Google Scholar](https://scholar.google.com/citations?user=ScpOkvAAAAAJ&hl=en) **Super cool Homepage!!!**
 
 
+- **Interactive Character Control with Auto-Regressive Motion Diffusion Models** [Arxiv](https://arxiv.org/abs/2306.00416), [Project](https://yi-shi94.github.io/amdm_page/)
+  - Yi Shi, Jingbo Wang, Xuekun Jiang, Bingkun Lin, Bo Dai, Xue Bin Peng
+  - **Date**: 16 Aug 2024
+  - **Summary**: Propose an auto-regressive diffusion model for kinematic motion synthesis and conduct extensive experiments and comparisons to demonstrate the superiority of this method.
+  - **Data**: 100STYLE, AMASS, LaFAN1
+  - **Metrics**: APD(Average Pairwise Distance), ADE(Average Displacement Error), FDE(Final Displacement Error), Bone Length Error, Pen.Freq(foot penetration frequency), Pen.Dist(average foot penetration distance), FS(foot sliding), Jnt.Accel(joint acceleration)
+
+
 - **A Survey on Reinforcement Learning Methods in Character Animation** [Arxiv](https://arxiv.org/abs/2203.04735)
   - Kwiatkowski, Ariel and Alvarado, Eduardo and Kalogeiton, Vicky and Liu, C. Karen and Pettré, Julien and van de Panne, Michiel and Cani, Marie‐Paule
   - 7 Mar 2022
