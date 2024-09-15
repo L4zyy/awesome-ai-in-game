@@ -65,6 +65,13 @@
   - **Date**: 7 May 2018
   - **Summary**: Survey paper on procedural content generation via machine learning, including traditional methods, machine learning methods, use cases and open problems.
 #### Playable Video Generation
+- **Diffusion Models Are Real-Time Game Engines** [Arxiv](https://arxiv.org/abs/2408.14837), [Project](https://gamengen.github.io/)
+  - Dani Valevski, Yaniv Leviathan, Moab Arar, Shlomi Fruchter
+  - **Date**: 27 Aug 2024
+  - **Summary**: GameNGen, the first game engine powered entirely by a neural model that enables real-time interaction with a complex environment over long trajec- tories at high quality.
+  - **Data**: VisDoom + RL
+  - **Metrics**: PSNR, LPIPS, Human Eval
+
 - **Genie: Generative Interactive Environments** [Arxiv](https://arxiv.org/abs/2402.15391), [Project](https://sites.google.com/view/genie-2024/home)
   - Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge (Jimmy) Shi and more (DeepMind, UBC)
   - **Date**: 23 Feb 2024
