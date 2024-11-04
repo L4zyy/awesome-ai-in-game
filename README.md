@@ -6,16 +6,27 @@
 
 ## Table of Contents
 ### Paper
-- [Survey](#survey)
-- [Game Making](#game-making)
-  - [Animation](#animation)
-- [Game Environment](#game-environment)
-  - [PCG](#pcg-procedural-content-generation)
-  - [Playable Video Generation](#playable-video-generation)
-- [Game Agent: To be a better man](#game-agent)
-  - [Text-based](#text-based)
-  - [FPS](#fps)
-- [Misc](#misc)
+- [Awesome AI in Game](#awesome-ai-in-game)
+  - [Table of Contents](#table-of-contents)
+    - [Paper](#paper)
+    - [Environment](#environment)
+    - [Project](#project)
+  - [Paper](#paper-1)
+    - [Survey](#survey)
+    - [Game Making](#game-making)
+      - [Animation](#animation)
+    - [Game Environment](#game-environment)
+      - [PCG (Procedural Content Generation)](#pcg-procedural-content-generation)
+      - [Playable Video Generation](#playable-video-generation)
+    - [Game Agent](#game-agent)
+      - [Text-based](#text-based)
+      - [FPS](#fps)
+    - [Misc](#misc)
+  - [Environment](#environment-1)
+    - [RPG](#rpg)
+  - [Project](#project-1)
+    - [LLM](#llm)
+  - [Acknowledgement](#acknowledgement)
 ### Environment
 - [RPG](#rpg)
 ### Project
@@ -45,14 +56,17 @@
 - **Interactive Character Control with Auto-Regressive Motion Diffusion Models** [Arxiv](https://arxiv.org/abs/2306.00416), [Project](https://yi-shi94.github.io/amdm_page/)
   - Yi Shi, Jingbo Wang, Xuekun Jiang, Bingkun Lin, Bo Dai, Xue Bin Peng
   - **Date**: 16 Aug 2024
-  - **Summary**: Propose an auto-regressive diffusion model for kinematic motion synthesis and conduct extensive experiments and comparisons to demonstrate the superiority of this method.
+  - **Summary**: (AMDM) Propose an auto-regressive diffusion model for kinematic motion synthesis and conduct extensive experiments and comparisons to demonstrate the superiority of this method.
   - **Data**: 100STYLE, AMASS, LaFAN1
   - **Metrics**: APD(Average Pairwise Distance), ADE(Average Displacement Error), FDE(Final Displacement Error), Bone Length Error, Pen.Freq(foot penetration frequency), Pen.Dist(average foot penetration distance), FS(foot sliding), Jnt.Accel(joint acceleration)
-
 
 - **A Survey on Reinforcement Learning Methods in Character Animation** [Arxiv](https://arxiv.org/abs/2203.04735)
   - Kwiatkowski, Ariel and Alvarado, Eduardo and Kalogeiton, Vicky and Liu, C. Karen and Pettré, Julien and van de Panne, Michiel and Cani, Marie‐Paule
   - 7 Mar 2022
+
+- **AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control** [Arxiv](https://arxiv.org/abs/2104.02180)
+  - Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa
+  - 5 Apr 2021
 
 - **DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills** [Arxiv](https://arxiv.org/abs/1804.02717)
   - Peng, Xue Bin and Abbeel, Pieter and Levine, Sergey and van de Panne, Michiel
