@@ -60,6 +60,11 @@
   - **Data**: 100STYLE, AMASS, LaFAN1
   - **Metrics**: APD(Average Pairwise Distance), ADE(Average Displacement Error), FDE(Final Displacement Error), Bone Length Error, Pen.Freq(foot penetration frequency), Pen.Dist(average foot penetration distance), FS(foot sliding), Jnt.Accel(joint acceleration)
 
+
+- **PADL: Language-Directed Physics-Based Character Control** [Arxiv](https://arxiv.org/abs/2408.14837)
+  - Jordan Juravsky, Yunrong Guo, Sanja Fidler, Xue Bin Peng
+  - 30 Nov 2022
+
 - **A Survey on Reinforcement Learning Methods in Character Animation** [Arxiv](https://arxiv.org/abs/2203.04735)
   - Kwiatkowski, Ariel and Alvarado, Eduardo and Kalogeiton, Vicky and Liu, C. Karen and Pettré, Julien and van de Panne, Michiel and Cani, Marie‐Paule
   - 7 Mar 2022
