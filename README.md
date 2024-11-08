@@ -53,6 +53,10 @@
 > - Sebastian Starke [Homepage](https://www.sebastianxstarke.com/) [Google Scholar](https://scholar.google.com/citations?user=ScpOkvAAAAAJ&hl=en) **Super cool Homepage!!!**
 
 
+- **MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting** [Arxiv](https://arxiv.org/abs/2409.14393)
+  - Chen Tessler, Yunrong Guo, Ofir Nabati, Gal Chechik, Xue Bin Peng
+  - 22 Sep 2024
+
 - **Interactive Character Control with Auto-Regressive Motion Diffusion Models** [Arxiv](https://arxiv.org/abs/2306.00416), [Project](https://yi-shi94.github.io/amdm_page/)
   - Yi Shi, Jingbo Wang, Xuekun Jiang, Bingkun Lin, Bo Dai, Xue Bin Peng
   - **Date**: 16 Aug 2024
@@ -60,6 +64,9 @@
   - **Data**: 100STYLE, AMASS, LaFAN1
   - **Metrics**: APD(Average Pairwise Distance), ADE(Average Displacement Error), FDE(Final Displacement Error), Bone Length Error, Pen.Freq(foot penetration frequency), Pen.Dist(average foot penetration distance), FS(foot sliding), Jnt.Accel(joint acceleration)
 
+- **SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation** [Arxiv](https://arxiv.org/abs/2407.10481)
+  - Jordan Juravsky, Yunrong Guo, Sanja Fidler, Xue Bin Peng
+  - 15 Jul 2024
 
 - **PADL: Language-Directed Physics-Based Character Control** [Arxiv](https://arxiv.org/abs/2408.14837)
   - Jordan Juravsky, Yunrong Guo, Sanja Fidler, Xue Bin Peng
