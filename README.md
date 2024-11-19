@@ -90,6 +90,12 @@
   - **Metrics**: APD(Average Pairwise Distance), ADE(Average Displacement Error), FDE(Final Displacement Error), Bone Length Error, Pen.Freq(foot penetration frequency), Pen.Dist(average foot penetration distance), FS(foot sliding), Jnt.Accel(joint acceleration)
 
 
+- **Human Motion Diffusion Model** [Arxiv](https://arxiv.org/abs/2209.14916)
+  - Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano
+  - 29 Sep 2022
+  - Keywords: MDM
+
+
 ### Game Environment
 #### PCG (Procedural Content Generation)
 - **Procedural Content Generation via Machine Learning (PCGML)** [Arxiv](https://arxiv.org/abs/1702.00539)
