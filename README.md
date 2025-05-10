@@ -26,9 +26,9 @@
   - [LLM](#llm)
 
 ## Leadboard
-| Title     | Date        | Links                                                                             | Summary                                                                | Visualization | Remarks |
-| --------- | ----------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------- | ------- |
-| TextArena | 15 Apr 2025 | [Arxiv](https://arxiv.org/abs/2504.11442)<br>[Website](https://www.textarena.ai/) | TextArena is an open-source collection of competitive text-based games | -             | -       |
+| Title     | Date        | Links                                                                             | Summary                                                                | Visualization                                           | Remarks |
+| --------- | ----------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------- | ------- |
+| TextArena | 15 Apr 2025 | [Arxiv](https://arxiv.org/abs/2504.11442)<br>[Website](https://www.textarena.ai/) | TextArena is an open-source collection of competitive text-based games | ![TextArena](assets/images/textarena_visualization.png) | -       |
 
 ## Paper
 ### Survey
